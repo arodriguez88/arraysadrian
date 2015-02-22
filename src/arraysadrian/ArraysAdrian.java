@@ -8,6 +8,7 @@ package arraysadrian;
 /**
  *
  * @author arodriguez88
+ * Remus Ionut PRUNA
  */
 public class ArraysAdrian {
 
