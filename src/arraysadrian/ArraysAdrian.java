@@ -7,7 +7,7 @@ package arraysadrian;
 
 /**
  *
- * @author Admin
+ * @author arodriguez88
  */
 public class ArraysAdrian {
 
